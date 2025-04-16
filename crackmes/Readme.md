@@ -1,0 +1,1 @@
+This folders contains all the crackmes problem attempted and solved by me. I'll help you solve each problem setp by step, how to approcah a problem, what tools/methods will be used and how to beat obfuscation.
